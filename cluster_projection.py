@@ -1,3 +1,6 @@
+# changed after uploading to git
+# comment for git test 
+
 from manim import *
 import numpy as np
 from sklearn.cluster import KMeans
